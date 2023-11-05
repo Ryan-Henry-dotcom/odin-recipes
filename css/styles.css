@@ -1,0 +1,8 @@
+body {
+    background-color: black;
+}
+
+#header {
+    color: hsla(180, 100%, 100%, 0.938);
+    background-color: hsla(137, 79%, 85%, 0.274);
+  }

@@ -1,3 +1,25 @@
-.contents .photo {
-    background-color: hsl(0, 0, 0%, 0.0)
+body {
+    background-color: hsl(0, 0%, 100%);
+    text-align: center;
+}
+
+#header {
+    text-align:center;
+    font-family: fantasy;
+    font-size: 40px;
+    color: hsla(22, 100%, 41%, 0.938);
+}
+
+img {
+    height: auto;
+    width: 500px;
+  }
+
+.ingredients {
+    background-color: hsla(24, 100%, 41%, 0.575);
+    text-align: left;
+}
+
+.contents .image-disclaimer {
+    color: hsl(0, 100%, 39%)
 }
